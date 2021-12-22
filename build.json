@@ -1,0 +1,18 @@
+{
+
+    "game": {
+
+        "Workspace": {},
+
+        "ReplicatedFirst": {},
+
+        "ReplicatedStorage": {},
+
+        "ServerScriptService": {
+            "chatmod.lua": {}
+        },
+
+        "ServerStorage": {}
+    }
+
+}
