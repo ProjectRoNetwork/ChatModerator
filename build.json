@@ -12,7 +12,9 @@
             "chatmod.lua": {}
         },
 
-        "ServerStorage": {}
+        "ServerStorage": {},
+        
+        "StarterGui": {}
     }
 
 }
